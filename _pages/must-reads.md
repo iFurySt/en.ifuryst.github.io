@@ -6,6 +6,11 @@ description: "A collection of must-read articles, papers, and resources that hav
 nav: true
 nav_order: 4
 links:
+  - title: "My first memoir is now available"
+    url: "https://www.gatesnotes.com/home/home-page-topic/reader/my-first-memoir-source-code"
+    reason: "Gates Notes is a great blog. I like the way Bill Gates shares his thoughts and experiences."
+    added_at: "2025-04-11"
+    tag: "article"
   - title: "Animal Spirits View-Master"
     url: "https://dylanhughes.shinyapps.io/flashcrash/"
     reason: "Flip through a few, and you'll have a different perspective on investing.🤯"
