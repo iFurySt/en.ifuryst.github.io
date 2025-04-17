@@ -6,6 +6,11 @@ description: "A collection of must-read articles, papers, and resources that hav
 nav: true
 nav_order: 4
 links:
+  - title: "Home-Cooked Software and Barefoot Developers"
+    url: "https://maggieappleton.com/home-cooked-software"
+    reason: "The author’s reflections on the rise of barefoot developers in the AI era, the shift from general-purpose to specialized software, and the trend toward local-first applications are highly insightful and truly worth reading."
+    added_at: "2025-04-18"
+    tag: "article"
   - title: "My first memoir is now available"
     url: "https://www.gatesnotes.com/home/home-page-topic/reader/my-first-memoir-source-code"
     reason: "Gates Notes is a great blog. I like the way Bill Gates shares his thoughts and experiences."
