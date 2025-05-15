@@ -6,9 +6,14 @@ description: "A collection of must-read articles, papers, and resources that hav
 nav: true
 nav_order: 4
 links:
+  - title: "20 years to give away virtually all my wealth"
+    url: "https://www.gatesnotes.com/home/home-page-topic/reader/n20-years-to-give-away-virtually-all-my-wealth"
+    reason: "I have nothing but respect for Bill Gates - his life journey, Microsoft's 50-year history, and his philanthropic work. His habits, thoughts, and insights are truly admirable."
+    added_at: "2025-05-15"
+    tag: "article"
   - title: "Home-Cooked Software and Barefoot Developers"
     url: "https://maggieappleton.com/home-cooked-software"
-    reason: "The author’s reflections on the rise of barefoot developers in the AI era, the shift from general-purpose to specialized software, and the trend toward local-first applications are highly insightful and truly worth reading."
+    reason: "The author's reflections on the rise of barefoot developers in the AI era, the shift from general-purpose to specialized software, and the trend toward local-first applications are highly insightful and truly worth reading."
     added_at: "2025-04-18"
     tag: "article"
   - title: "My first memoir is now available"
@@ -23,12 +28,12 @@ links:
     tag: "finance"
   - title: "Why everyone should learn to code"
     url: "https://blog.apiad.net/p/why-everyone-should-learn-to-code"
-    reason: "A great article! I like the a lot of points, like what is coding, the abstraction, LLMs don’t make bad programmers better, and two schools of thought about how to learn to code. It definitely worth reading."
+    reason: "A great article! I like the a lot of points, like what is coding, the abstraction, LLMs don't make bad programmers better, and two schools of thought about how to learn to code. It definitely worth reading."
     added_at: "2024-10-29"
     tag: "article"
   - title: "Why GitHub Actually Won"
     url: "https://blog.gitbutler.com/why-github-actually-won/"
-    reason: 'Some tips and enlightening insights for start a new biz:<br />"...Big hosts didn’t care and smaller players weren’t serious...So, to sum up, we won because we started at the right time and we had taste...".'
+    reason: 'Some tips and enlightening insights for start a new biz:<br />"...Big hosts didn't care and smaller players weren't serious...So, to sum up, we won because we started at the right time and we had taste...".'
     added_at: "2024-09-29"
     tag: "article"
   - title: "Creating a Git commit: The Hard Way"
