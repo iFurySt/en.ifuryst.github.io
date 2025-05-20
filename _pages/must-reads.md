@@ -6,6 +6,11 @@ description: "A collection of must-read articles, papers, and resources that hav
 nav: true
 nav_order: 4
 links:
+  - title: "Human"
+    url: "https://quarter--mile.com/Human"
+    reason: "A sci-fi perspective on humans and AI/robots. While somewhat unsettling, it provokes deep reflection on how different viewpoints can fundamentally change our understanding of things."
+    added_at: "2025-05-20"
+    tag: "article"
   - title: "20 years to give away virtually all my wealth"
     url: "https://www.gatesnotes.com/home/home-page-topic/reader/n20-years-to-give-away-virtually-all-my-wealth"
     reason: "I have nothing but respect for Bill Gates - his life journey, Microsoft's 50-year history, and his philanthropic work. His habits, thoughts, and insights are truly admirable."
