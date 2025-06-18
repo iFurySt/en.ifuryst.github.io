@@ -6,6 +6,16 @@ description: "A collection of must-read articles, papers, and resources that hav
 nav: true
 nav_order: 4
 links:
+  - title: "Thoughts on thinking"
+    url: "https://dcurt.is/thinking"
+    reason: "In the AI era, our minds seem to be getting rusty in certain scenarios. What will be the long-term impact? Only time will tell."
+    added_at: "2025-06-18"
+    tag: "article"
+  - title: "Snorting the AGI with Claude Code"
+    url: "https://kadekillary.work/blog/#2025-06-16-snorting-the-agi-with-claude-code"
+    reason: "Further exploration of Claude Code usage patterns and approaches, expanding our thinking about AI-assisted development."
+    added_at: "2025-06-18"
+    tag: "article"
   - title: "Human"
     url: "https://quarter--mile.com/Human"
     reason: "A sci-fi perspective on humans and AI/robots. While somewhat unsettling, it provokes deep reflection on how different viewpoints can fundamentally change our understanding of things."
